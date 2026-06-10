@@ -1,4 +1,4 @@
-package clase.upa
+package clase3.upa
 
 import java.util.Random
 

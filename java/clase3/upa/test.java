@@ -1,4 +1,4 @@
-package clase.upa;
+package clase3.upa;
 
 public class test {
     public static void main(String[] args) {

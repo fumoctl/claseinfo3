@@ -1,4 +1,4 @@
-package clase.upa
+package clase3.upa
 
 def reader = new BufferedReader(new InputStreamReader(System.in))
 def numeros = []

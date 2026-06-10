@@ -1,4 +1,4 @@
-package clase.upa
+package clase3.upa
 
 def s = "llego y dijo hola, hola a todos, hola"
 int apariciones = 0

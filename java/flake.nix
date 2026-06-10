@@ -16,6 +16,7 @@
             jdk21
             maven
             gradle
+            groovy
             ant
 
             # LSP and common Java helpers

@@ -2,12 +2,15 @@ package ej1;
 
 public class Main {
     public static void main(String[] args) {
-        Persona p1 = new Persona("Juan Lopez", 20);
+        Estudiante estudiante = new Estudiante("Juan Lopez", 20, "Ingenieria en Sistemas");
 
-        p1.mostrar();
+        estudiante.mostrar();
+        estudiante.mostrarCarrera();
 
-        p1.setNombre("Juan Carlos Santana Rodriguez");
-        p1.setEdad(32);
-        p1.mostrar();
+        estudiante.setNombre("Juan Carlos Santana Rodriguez");
+        estudiante.setEdad(32);
+        estudiante.setCarrera("Ingenieria Informatica");
+        estudiante.mostrar();
+        estudiante.mostrarCarrera();
     }
 }
